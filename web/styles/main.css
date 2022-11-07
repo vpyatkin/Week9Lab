@@ -1,0 +1,4 @@
+/* The styles for the elements */
+table, th, td {
+    border: 1px solid;
+}
